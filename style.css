@@ -1,14 +1,12 @@
-.mygrid{
-    display: grid;
-    width:100%;
-    
-}
+
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    border:solid black;
 }
 p{
     text-align: center;
+    border: solid black;
 }
